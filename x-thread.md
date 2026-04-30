@@ -11,7 +11,7 @@ YIS Loop
 它是给那些喜新厌旧、容易半途而废、做很多事但力量没有叠加的人用的。
 
 GitHub：
-{repo_url}
+https://github.com/yilee369/yis-loop
 
 ## Post 2
 
@@ -72,4 +72,4 @@ GitHub：
 如果你也有“做得很散、不知道该重复什么”的问题，欢迎拿它试一下，然后给我反馈。
 
 GitHub：
-{repo_url}
+https://github.com/yilee369/yis-loop
